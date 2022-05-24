@@ -31,5 +31,5 @@ Clothing and fashion Image Recognition using Deep Convolutional Neural Networks 
 
 author: yosep kim
 
-github.com/cowboyuniverse
+github.com/ykimdeveloper
 
